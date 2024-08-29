@@ -25,7 +25,7 @@ Este proyecto consiste en el desarrollo de un sistema de gestión para una zapat
 
 **Gestión de Compras**: Facilita el reabastecimiento de inventario mediante la gestión de compras a proveedores.
 
-**Gestión de Inventario**: Mantiene un control del stock disponible, registrando los movimientos de inventario como ventas, devoluciones y compras.
+**Gestión de Inventario**:  Mantiene un control del stock disponible, registrando los movimientos de inventario como ventas, devoluciones y compras.
 
 **Generación de Reportes**: Ofrece reportes detallados sobre las ventas, inventario y compras, ayudando a la toma de decisiones informadas.
 
