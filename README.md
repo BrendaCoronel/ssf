@@ -6,6 +6,7 @@
 
  Oliva Daniel
 
+ Molina Federico
  ## Titulo de Proyecto
  
  **Zapatería Geminis**
